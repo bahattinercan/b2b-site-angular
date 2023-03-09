@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung S5",
+      "price": "1200",
+      "imageUrl": "ürün1.jpg",
+      "description": "iyi telefon",
+      "category": "Telefon"
+    },
+    {
+      "id": 2,
+      "name": "Samsung S6",
+      "price": "1400",
+      "imageUrl": "ürün1.jpg",
+      "description": "iyi telefon",
+      "category": "Telefon"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S7",
+      "price": "1200",
+      "imageUrl": "ürün1.jpg",
+      "description": "iyi telefon",
+      "category": "Telefon"
+    },
+    {
+      "id": 4,
+      "name": "Monster Abra A9",
+      "price": "10000",
+      "imageUrl": "ürün1.jpg",
+      "description": "çok iyi bilgisayar",
+      "category": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S7",
+      "price": "1200",
+      "imageUrl": "ürün1.jpg",
+      "description": "iyi telefon",
+      "category": "Telefon"
+    },
+    {
+      "id": 3,
+      "name": "Monster Abra A5",
+      "price": "7000",
+      "imageUrl": "ürün1.jpg",
+      "description": "iyi bilgisayar",
+      "category": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S43",
+      "price": "4800",
+      "imageUrl": "ürün1.jpg",
+      "description": "iyi telefon",
+      "category": "Telefon"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Telefon"
+    },
+    {
+      "id": 2,
+      "name": "Akilli Telefon"
+    },
+    {
+      "id": 3,
+      "name": "Bilgisayar"
+    }
+  ],
+  "orders": {
+    "cart": {
+      "items": [
+        {
+          "product": {
+            "id": 1,
+            "name": "Samsung S5",
+            "price": "1200",
+            "imageUrl": "ürün1.jpg",
+            "description": "iyi telefon",
+            "category": "Telefon"
+          },
+          "quantity": "35"
+        }
+      ],
+      "itemCount": "035",
+      "total": 42000
+    },
+    "isSent": false,
+    "name": "wasdfasd",
+    "address": "fasdfsad",
+    "city": "fsafsa",
+    "phone": "dfsadf",
+    "email": "sdfsafsa"
+  }
+}
